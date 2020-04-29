@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "176683009459",
+    "firebase_url": "https://chest-2d711.firebaseio.com",
+    "project_id": "chest-2d711",
+    "storage_bucket": "chest-2d711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176683009459:android:6a9586ed42539323",
+        "android_client_info": {
+          "package_name": "org.chestnet.chestjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176683009459-aupddgk1k5l403kj2u49da2pcgehtjtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoMhQAXyRd2cJiFqRQcZBTOED8ThjHJeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176683009459-aupddgk1k5l403kj2u49da2pcgehtjtc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "176683009459-6grab9mk51esqe8bh004ipdcpsldhv6q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elsevier.jbsm.swift.CHEST"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "829024687657",
+    "firebase_url": "https://api-project-829024687657.firebaseio.com",
+    "project_id": "api-project-829024687657",
+    "storage_bucket": "api-project-829024687657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829024687657:android:079a685c4c12b459",
+        "android_client_info": {
+          "package_name": "com.elsevier.stmj.jat.newsstand.ajpa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829024687657-2rd0sfg8e05v26l7ubmgaas8a0rv40no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXrmis094Cg6M90rn6_IJcPvne4GZV7iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829024687657-2rd0sfg8e05v26l7ubmgaas8a0rv40no.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "829024687657-aohcbf64lntljndcoemum6omc6gn4i0k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elsevier.jbsm.swift.AJPA"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

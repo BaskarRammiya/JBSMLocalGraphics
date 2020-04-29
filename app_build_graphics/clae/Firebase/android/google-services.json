@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "769178745905",
+    "firebase_url": "https://contact-lens-and-anterior-eye.firebaseio.com",
+    "project_id": "contact-lens-and-anterior-eye",
+    "storage_bucket": "contact-lens-and-anterior-eye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769178745905:android:b0ca2f9839630469",
+        "android_client_info": {
+          "package_name": "com.elsevier.stmj.jat.newsstand.clae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769178745905-kld0u4ruuifbideud734teo26iddv4in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-q6Sjd-Zb3Telrm_W8yAciSk0EW7YAIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769178745905-kld0u4ruuifbideud734teo26iddv4in.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769178745905-a1gasuueaf8sc0p7pup0hl6gg4hrp3r9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elsevier.jat.newsstand.enterprise.CLAE"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "517570790468",
+    "firebase_url": "https://api-project-517570790468.firebaseio.com",
+    "project_id": "api-project-517570790468",
+    "storage_bucket": "api-project-517570790468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517570790468:android:7614b7cef64a7102",
+        "android_client_info": {
+          "package_name": "com.cell.journalreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517570790468-rgeruuprn61c64rlnphnjj2prac4291n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVRZxaB5ngbi6iQdKbe1H17192Ev7_eik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517570790468-rgeruuprn61c64rlnphnjj2prac4291n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517570790468-1mrs7fsnd91fjaisb49ckhktes6hqi9c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elsevier.jat.newsstand.enterprise.CELLPRESS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

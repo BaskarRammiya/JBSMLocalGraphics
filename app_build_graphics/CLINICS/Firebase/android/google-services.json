@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "461272587438",
+    "firebase_url": "https://clinics-review-articles.firebaseio.com",
+    "project_id": "clinics-review-articles",
+    "storage_bucket": "clinics-review-articles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461272587438:android:c77936c6ce35eb11",
+        "android_client_info": {
+          "package_name": "com.elsevier.clinics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461272587438-p3mo6cfj7ba3kf5i0kgp1vsh7mvof1ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5scw6YB3sxNR0_UD-rtxZaPZ5r70LU-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461272587438-p3mo6cfj7ba3kf5i0kgp1vsh7mvof1ok.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "461272587438-l6bsgkktqd34iqe6l0l68jnvrmm60jrg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elsevier.clinics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
